@@ -11,9 +11,12 @@ Requires OpenCV 2.4.13 To use with OpenCV 3.x.x some changes should be done acco
 
 ## Usage
 cd [directory]
+
 mkdir build
+
 make
-./build/ImgProc
+
+./build/Webcam_unit_test
 
 ## Contributing
 1. Fork it!
